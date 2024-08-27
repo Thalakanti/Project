@@ -1,0 +1,41 @@
+
+nav{
+    position: relative;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(197, 243, 151);
+    /* color: rgb(221, 52, 52); */
+    /* display: flex;
+    justify-content: space-between;
+
+*/
+}
+
+ ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    display: inline;
+    padding: 14px 64px;
+    font-size: 24px;
+    font-weight:600;
+    text-decoration: none;
+   
+
+
+}
+/* h3{
+    color: white;
+} */
+.order-items {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: flex-end;
+    margin-right: 2rem;
+  }
